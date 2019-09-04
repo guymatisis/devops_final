@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 
 <%
-request.setAttribute("pageHeading", "Welcome on my Website!");
+request.setAttribute("pageHeading", "Welcome on my Website NOTTTT!");
 %>
 <jsp:include page="/WEB-INF/jsp/header.inc.jsp"></jsp:include>
 
