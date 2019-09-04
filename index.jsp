@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Show Date</title>
+<title>Show Date WITH CHANGE</title>
 </head>
 <body>
 <%Date d = new Date();%>
