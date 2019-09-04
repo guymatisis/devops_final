@@ -9,7 +9,7 @@
 </head>
 <body>
 <%Date d = new Date();%>
-<h1>Today's Date and Time Is: 
+<h1>Today's Date and Time Is CHANGE!!: 
 <%= d %> </h1>
 </body>
 </html>
